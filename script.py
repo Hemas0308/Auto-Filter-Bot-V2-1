@@ -14,10 +14,10 @@ class script(object):
 For more click <i>help</i></b>"""
 
 
-    குழுவில் இணைய_MSG = """<b>https://t.me/aedahamlibrary_noolakam</b>"""
+    Group_MSG = """<b>https://t.me/aedahamlibrary_noolakam</b>"""
 
 
-    சேனலில் இணைய = """⭕️<b>https://t.me/aedahamlibrary1</b>
+    Channel_MSG = """⭕️<b>https://t.me/aedahamlibrary1</b>
     
 ⭕️<b>Creater :</b> @kaimudinjavai
 
