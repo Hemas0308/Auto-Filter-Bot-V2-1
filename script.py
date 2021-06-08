@@ -3,13 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+ஏடகம்-Library ஒரு டிஜிட்டல் காப்பகமும் டிஜிட்டல் நூலகமும் ஆகும்.
 
 This is Version 2 of Auto Filter Bot
 
-Bot gives button link to files in connected channels on query !
+டெலிகிராம் குழுமங்களில் மிகவும் தரமான !
 
-No need to add filters for your files or movies from now on!
+நூல்களை வழங்கும் முதன்மையான ஒரே நூலகம்.!
 
 For more click <i>help</i></b>"""
 
