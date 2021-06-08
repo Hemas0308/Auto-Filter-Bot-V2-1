@@ -5,7 +5,7 @@ class script(object):
 
 ஏடகம்-Library ஒரு டிஜிட்டல் காப்பகமும் டிஜிட்டல் நூலகமும் ஆகும்.
 
-This is Version 2 of Auto Filter Bot
+
 
 டெலிகிராம் குழுமங்களில் மிகவும் தரமான !
 
@@ -14,7 +14,7 @@ This is Version 2 of Auto Filter Bot
 For more click <i>help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    குழுவில் இணைய_MSG = """<b>How to use the bot??</b>
 
 <i>
 * Add bot to your group with admin rights.
@@ -56,9 +56,9 @@ Bot will automatically search for your files and give links to that!
 <b>© @librarytamil</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    சேனலில் இணைய = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @librarytamil
+⭕️<b>Creater :</b> @kaimudinjavai
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
